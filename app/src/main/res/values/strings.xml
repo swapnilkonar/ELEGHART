@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ELEGHART</string>
+    <string name="title_activity_user_home_page">UserHomePage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SWAPNIL KONAR</string>
+    <string name="nav_header_subtitle">swapnilkonar45@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings" color="FFFFFFFF">Settings</string>
+    <string name="title_activity_user_home_page_view">UserHomePageView</string>
+    <string name="title_activity_home_page_user">ELEGHART</string>
+</resources>
